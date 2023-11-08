@@ -8,6 +8,7 @@ D:\SisFinance\SisFinance\api\bin\Debug\net6.0\api.pdb
 D:\SisFinance\SisFinance\api\bin\Debug\net6.0\Azure.Core.dll
 D:\SisFinance\SisFinance\api\bin\Debug\net6.0\Azure.Identity.dll
 D:\SisFinance\SisFinance\api\bin\Debug\net6.0\Humanizer.dll
+D:\SisFinance\SisFinance\api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\SisFinance\SisFinance\api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\SisFinance\SisFinance\api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 D:\SisFinance\SisFinance\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
