@@ -13,7 +13,7 @@ namespace api.Controllers
         [Route("/login")]
         public async Task<IActionResult> login(User model)
         {
-            var user = UserRepository.Get(model.Name, model.Password);
+            var user = UserRepository.Get(model.Email, model.Password);
 
             if (user == null)
                 return NotFound(new { message = "Usuário inválido" });
